@@ -7,9 +7,28 @@
 
 ## Included DDIC Objects
 
+Object Type | Description
+------------|------------
+DOMA | Domain
+DTEL | Data Element
+PARA | Parameter ID
+SHLP | Search Help
+TABL | Table
+TTYP | Table Type
+TYPE | Type Pool
+VIEW | View
+
 ![image](https://user-images.githubusercontent.com/59966492/212163343-716ce687-68f8-4716-bf2f-11cfc7d51fc3.png)
 
 ## Included ABAP Objects
+
+Object Type | Description
+------------|------------
+CLAS | Class
+FUGR | Function Group
+INTF | Interface
+PROG | Program
+TOBJ | Transport Object
 
 ![image](https://user-images.githubusercontent.com/59966492/212163466-6ec23ad6-44fb-4b9f-9ab2-a30467a2e350.png)
 
@@ -32,6 +51,7 @@ INTF | DTEL
 INTF | PROG
 INTF | TABL
 INTF | TYPE
+PARA | DTEL
 SHLP | TABL
 TABL | CLAS
 TABL | DOMA
