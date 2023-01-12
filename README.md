@@ -55,3 +55,16 @@ VIEW | PROG
 VIEW | TOBJ
 VIEW | TYPE
 VIEW | VIEW
+
+## Missing DDIC Objects
+
+The following object types are not yet included in this test repo:
+
+Object Type | Description
+------------|------------
+DDLS | CDS Views
+DRUL | Dependency Rule
+DTDC | Dictionary Tuning: Dynamic Cache
+SFBF | Business Function + Assignment 
+SFBS | Business Function Set + Assignment 
+SFSW | Switch + Assignment of Objects to the Switch 
