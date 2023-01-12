@@ -1,0 +1,4 @@
+TYPE-POOL zagty.
+
+CONSTANTS:
+  zagty_numbers TYPE c LENGTH 10 VALUE '0123456789'.

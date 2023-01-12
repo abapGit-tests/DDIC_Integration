@@ -1,0 +1,5 @@
+INTERFACE zag_intf PUBLIC.
+
+  METHODS test.
+
+ENDINTERFACE.
