@@ -2,7 +2,7 @@
 
 - All core DDIC object types (with variations)
 - Many dependencies between DDIC objects
-- Reference to all DDIC objects in ABAP code (via data statement in a program)
+- Reference to all DDIC objects in ABAP code (via DATA or TYPE statement in a program)
 - DDIC fields referencing ABAP classes or interfaces
 
 ## Included DDIC Objects
