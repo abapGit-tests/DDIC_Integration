@@ -5,6 +5,14 @@
 - Reference to all DDIC objects in ABAP code (via data statement in a program)
 - DDIC fields referencing ABAP classes or interfaces
 
+## Included DDIC Objects
+
+![image](https://user-images.githubusercontent.com/59966492/212163343-716ce687-68f8-4716-bf2f-11cfc7d51fc3.png)
+
+## Included ABAP Objects
+
+![image](https://user-images.githubusercontent.com/59966492/212163466-6ec23ad6-44fb-4b9f-9ab2-a30467a2e350.png)
+
 ## Included Dependencies
 
 Object Type A | Referenced in Object Type B
