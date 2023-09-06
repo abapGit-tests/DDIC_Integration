@@ -12,7 +12,6 @@
     <RLOAD>E</RLOAD>
     <FIXPT>X</FIXPT>
     <LDBNAME>D$S</LDBNAME>
-    <UCCHECK>X</UCCHECK>
    </PROGDIR>
   </asx:values>
  </asx:abap>
