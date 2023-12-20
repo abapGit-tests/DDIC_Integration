@@ -5,7 +5,6 @@
    <MASTER_LANGUAGE>E</MASTER_LANGUAGE>
    <STARTING_FOLDER>/src/</STARTING_FOLDER>
    <FOLDER_LOGIC>PREFIX</FOLDER_LOGIC>
-   <ORIGINAL_SYSTEM>XYZ</ORIGINAL_SYSTEM>
    <IGNORE>
     <item>/.gitignore</item>
     <item>/LICENSE</item>
@@ -13,6 +12,7 @@
     <item>/package.json</item>
     <item>/.travis.yml</item>
    </IGNORE>
+   <ORIGINAL_SYSTEM>XYZ</ORIGINAL_SYSTEM>
   </DATA>
  </asx:values>
 </asx:abap>
